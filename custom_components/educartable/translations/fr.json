@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Educartable Familles",
+        "description": "Utilise les mêmes identifiants que sur l'application Educartable Familles.",
+        "data": { "email": "Adresse e-mail", "password": "Mot de passe" }
+      },
+      "reauth_confirm": {
+        "title": "Reconnexion Educartable",
+        "data": { "password": "Mot de passe" }
+      }
+    },
+    "error": {
+      "invalid_auth": "Identifiants refusés par Educartable.",
+      "cannot_connect": "Impossible de joindre Educartable."
+    },
+    "abort": {
+      "already_configured": "Ce compte est déjà configuré.",
+      "reauth_successful": "Reconnexion réussie."
+    }
+  }
+}

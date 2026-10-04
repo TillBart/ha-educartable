@@ -1,0 +1,11 @@
+{
+  "domain": "educartable",
+  "name": "Educartable",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/VOTRE_COMPTE/ha-educartable",
+  "issue_tracker": "https://github.com/VOTRE_COMPTE/ha-educartable/issues",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}
