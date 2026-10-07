@@ -2,10 +2,6 @@
   <img src="docs/educartable-636.png" alt="Logo Educartable" width="200">
 </p>
 
-<p align="center">
-  <img src="custom_components/educartable/brand/icon@2x.png" alt="Educartable pour Home Assistant" width="120">
-</p>
-
 <h1 align="center">Educartable pour Home Assistant</h1>
 
 <p align="center">
