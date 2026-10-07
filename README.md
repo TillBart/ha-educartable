@@ -19,13 +19,9 @@
 
 Je m'appelle Jérôme. Je travaille dans la GTB et la domotique, et je suis papa d'un enfant en école primaire.
 
-L'école utilise **Educartable Familles** pour le carnet de liaison et le cahier de textes. L'application est très bien, mais il faut penser à l'ouvrir pour savoir si l'enseignant a écrit quelque chose. Comme j'ai déjà Home Assistant à la maison, je me suis dit que la maison pouvait me prévenir toute seule.
+L'école de mon fils utilise **Educartable Familles** pour le carnet de liaison et le cahier de textes. Mon problème : je ne reçois pas les notifications de l'application, et je passe donc à côté des messages de l'enseignant. Comme j'ai déjà Home Assistant à la maison, je me suis dit que la maison pouvait me prévenir toute seule.
 
-Il n'existait aucune intégration, alors je l'ai créée. Elle sert à :
-
-- **retrouver facilement les infos de la scolarité** de mon fils dans mon tableau de bord ;
-- **être prévenu directement par notification** quand il y a des devoirs à faire ou un message du corps enseignant ;
-- et, pourquoi pas, faire annoncer les devoirs par une enceinte quand on rentre le soir.
+Il n'existait aucune intégration, alors j'ai créé celle-ci. Les infos de la scolarité arrivent dans mon tableau de bord, je reçois une notification sur mon téléphone à chaque nouveau message, et on peut aller plus loin avec des automatisations : chez moi, quand j'ouvre la porte en rentrant, l'enceinte me lit directement le message de l'école.
 
 Je la partage au cas où elle servirait à d'autres parents.
 
