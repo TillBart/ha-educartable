@@ -25,7 +25,11 @@ Il n'existait aucune intégration, alors j'ai créé celle-ci. Les infos de la s
 
 Je la partage au cas où elle servirait à d'autres parents.
 
-> **Projet indépendant et non officiel.** Il n'a aucun lien avec Edumoov, l'éditeur d'Educartable. « Educartable » est le nom de leur service. L'icône de cette intégration est une création originale.
+<p align="center">
+  <img src="docs/educartable-636.png" alt="Logo Educartable" width="200">
+</p>
+
+> **Projet indépendant et non officiel.** Il n'a aucun lien avec Edumoov, l'éditeur d'Educartable. « Educartable » est le nom de leur service. Le logo ci-dessus appartient à son éditeur et n'est affiché que pour identifier le service. L'icône de cette intégration est une création originale.
 
 ## Ce que tu obtiens
 
