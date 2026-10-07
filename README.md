@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="docs/educartable-636.png" alt="Logo Educartable" width="200">
+</p>
+
+<p align="center">
   <img src="custom_components/educartable/brand/icon@2x.png" alt="Educartable pour Home Assistant" width="120">
 </p>
 
@@ -25,11 +29,7 @@ Il n'existait aucune intégration, alors j'ai créé celle-ci. Les infos de la s
 
 Je la partage au cas où elle servirait à d'autres parents.
 
-<p align="center">
-  <img src="docs/educartable-636.png" alt="Logo Educartable" width="200">
-</p>
-
-> **Projet indépendant et non officiel.** Il n'a aucun lien avec Edumoov, l'éditeur d'Educartable. « Educartable » est le nom de leur service. Le logo ci-dessus appartient à son éditeur et n'est affiché que pour identifier le service. L'icône de cette intégration est une création originale.
+> **Projet indépendant et non officiel.** Il n'a aucun lien avec Edumoov, l'éditeur d'Educartable. « Educartable » est le nom de leur service. Le logo Educartable en haut de cette page appartient à son éditeur et n'est affiché que pour identifier le service. L'icône de cette intégration est une création originale.
 
 ## Ce que tu obtiens
 
