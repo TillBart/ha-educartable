@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ko-fi.com/TON_PSEUDO_KOFI"><img alt="Offrez-moi un café" src="https://img.shields.io/badge/☕_Offrez--moi_un_café-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
+  <a href="https://ko-fi.com/tillbart"><img alt="Offrez-moi un café" src="https://img.shields.io/badge/☕_Offrez--moi_un_café-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
 </p>
 
 ---
@@ -120,6 +120,6 @@ Les capteurs contiennent des informations scolaires concernant des enfants. Ne p
 
 Cette intégration est gratuite et le restera. Si elle te fait gagner du temps et que tu as envie de dire merci, tu peux m'offrir un café :
 
-<a href="https://ko-fi.com/TON_PSEUDO_KOFI"><img alt="Offrez-moi un café" src="https://img.shields.io/badge/☕_Offrez--moi_un_café-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
+<a href="https://ko-fi.com/tillbart"><img alt="Offrez-moi un café" src="https://img.shields.io/badge/☕_Offrez--moi_un_café-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
 
 Un retour, une idée ou un bug trouvé m'aident tout autant : n'hésite pas à ouvrir une *issue*.
